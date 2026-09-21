@@ -1,0 +1,42 @@
+{
+  "source": {
+    "filename": "blue-p0-200mp.png",
+    "dimensions": [11584, 17376],
+    "megapixels": 201.284,
+    "sha256": "f8741314b53f9cda63128dde769e88efb0165987a1bcb8377a48b64a548b6f7c",
+    "size_bytes": 337045892,
+    "path": "/mnt/zer0models/quackles-200mp/blue-p0-200mp.png"
+  },
+  "dzi": {
+    "tileSize": 512,
+    "overlap": 0,
+    "format": "webp",
+    "levelsRetained": 4,
+    "levelsExcluded": [4, 5, 6],
+    "reason": "levels 4-6 have source width <= 1024px (existing base hero size)"
+  },
+  "pyramid": {
+    "committedLevels": [0, 1, 2, 3],
+    "tileCount": 1055,
+    "totalBytes": 300957452,
+    "largestTileBytes": 571522,
+    "medianTileBytes": 285267
+  },
+  "masterExcluded": {
+    "filename": "blue-p0-200mp.png",
+    "bytes": 337045892,
+    "reason": "kept local only; GitHub Pages serves WebP DZI pyramid"
+  },
+  "generation": {
+    "date": "2026-09-17",
+    "engine": "CYCLES",
+    "device": "GPU+CPU",
+    "blendScene": "/home/kvn/Documents/Codex/2026-09-16/c/work/calibration/quality-final-cobalt.blend",
+    "generatorScript": "blender/render_blue_200mp.py (commit 72b0786)",
+    "tiles": "2x2-crop stitch"
+  },
+  "deployment": {
+    "repository": "kvnloo/quackles-assets",
+    "baseUrl": "/quackles-assets/blue/p0000000"
+  }
+}

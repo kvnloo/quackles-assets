@@ -1,0 +1,14 @@
+{
+  "tileSize": 512,
+  "format": "webp",
+  "overlap": 0,
+  "size": [11584, 17376],
+  "levels": [
+    {"level": 0, "size": [11584, 17376], "tiles": 782, "bytes": 298042906, "codec": "webp-lossless"},
+    {"level": 1, "size": [5792, 8688], "tiles": 204, "bytes": 2146136},
+    {"level": 2, "size": [2896, 4344], "tiles": 54, "bytes": 574824},
+    {"level": 3, "size": [1448, 2172], "tiles": 15, "bytes": 193586}
+  ],
+  "level0": "webp-lossless",
+  "mips": "webp-q82"
+}
