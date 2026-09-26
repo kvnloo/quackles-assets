@@ -1,0 +1,60 @@
+{
+  "scene": "day",
+  "tileSize": 512,
+  "format": "webp",
+  "overlap": 0,
+  "size": [
+    25820,
+    38730
+  ],
+  "pixels": 1000008600,
+  "levels": [
+    {
+      "level": 0,
+      "size": [
+        25820,
+        38730
+      ],
+      "tiles": 3876,
+      "bytes": 1345871712
+    },
+    {
+      "level": 1,
+      "size": [
+        12910,
+        19365
+      ],
+      "tiles": 988,
+      "bytes": 36133048
+    },
+    {
+      "level": 2,
+      "size": [
+        6455,
+        9683
+      ],
+      "tiles": 247,
+      "bytes": 3491182
+    },
+    {
+      "level": 3,
+      "size": [
+        3228,
+        4842
+      ],
+      "tiles": 70,
+      "bytes": 568756
+    },
+    {
+      "level": 4,
+      "size": [
+        1614,
+        2421
+      ],
+      "tiles": 20,
+      "bytes": 199596
+    }
+  ],
+  "level0": "webp-lossless",
+  "mips": "webp-q82"
+}
